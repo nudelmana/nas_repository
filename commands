@@ -1,0 +1,8 @@
+git pull
+git status
+git checkout <BRANCH>
+git checkout -b <NEW_BRANCH>>
+git push origin <BRNACH>
+git add .
+git commit
+git diff
